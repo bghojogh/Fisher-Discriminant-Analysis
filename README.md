@@ -1,4 +1,4 @@
-# Fisher Discriminant Analysis and Kernel Fisher Discriminant Analysis
+# Fisher Discriminant Analysis & Kernel Fisher Discriminant Analysis
 
 The code for Fisher Discriminant Analysis (FDA) and Kernel Fisher Discriminant Analysis (Kernel FDA)
 
